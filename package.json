@@ -1,0 +1,15 @@
+{
+  "name": "scanx-ai-dashboard",
+  "version": "3.1.0",
+  "description": "ScanX AI Dashboard — Landing page & Phone Bridge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
